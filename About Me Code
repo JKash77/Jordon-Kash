@@ -10,6 +10,8 @@ for doing business with us!
 Location - 1301 N Mcdivitt Ave
            Compton, CA 90221
            Phone: 512-275-0202
-
+ body{
+	 background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/07/Car-Wallpapers-16.jpg");
+	 
 </h2>
 </html>
